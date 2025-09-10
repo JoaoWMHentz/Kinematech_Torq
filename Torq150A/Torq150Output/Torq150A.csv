@@ -1,0 +1,64 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+"C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C13",12,"4,7uF",,,,Capacitor_SMD:C_1210_3225Metric,~
+"C16,C17,C18,C19,C20,C21",6,470uf,,,,Capacitor_THT:CP_Radial_D16.0mm_P7.50mm,~
+"FB1,FB2,FB3,FB4,FB5,FB6",6,FerriteBead,,,,Inductor_SMD:L_Coilcraft_0805HQ_2012Metric,~
+"H1,H2,H3,H4",4,MountingHole_Pad,,Excluded from BOM,,MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad,~
+"H5,H6,H7,H8,H9",5,MountingHole_Pad,,Excluded from BOM,,MountingHole:MountingHole_6.4mm_M6_Pad_Via,~
+"J1,J2,J3",3,Conn_02x03_Odd_Even,,,,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical,~
+J4,1,Conn_01x02_Pin,,,,Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical,~
+"Q1,Q2,Q3,Q4,Q5,Q6",6,IPT015N10N5,,,,Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1,http://www.infineon.com/dgdl/Infineon-IPT015N10N5-DS-v02_01-EN.pdf?fileId=5546d4624a75e5f1014ac94680661aff
+"R19,R20,R21,R22,R23,R24,R25,R26,R27",9,"0,5m",,,,Resistor_SMD:R_2512_6332Metric,~
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+"C1,C8,C29,C35,C36,C37,C41,C45,C46",9,100nf,,,,Capacitor_SMD:C_0402_1005Metric,~
+"C2,C3,C4,C5,C9,C10,C12,C13,C48,C50,C52,C54,C55",13,100n,,,,Capacitor_SMD:C_0402_1005Metric,~
+C6,1,4u7,,,,Capacitor_SMD:C_0402_1005Metric,~
+"C7,C11",2,1u,,,,Capacitor_SMD:C_0402_1005Metric,~
+"C14,C15",2,10pf,,,,Capacitor_SMD:C_0402_1005Metric,~
+"C16,C38,C42",3,100uF,,,,Capacitor_SMD:CP_Elec_3x5.4,~
+"C22,C25,C27,C43,C44",5,"4,7uF",,,,Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I,~
+"C23,C24,C26",3,"0,470uF",,,,Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I,~
+"C28,C30,C34",3,"2,2uf",,,,Capacitor_SMD:C_0402_1005Metric,~
+C32,1,10n,,,,Capacitor_SMD:C_0402_1005Metric,~
+"C33,C39",2,2.2uf,,,,Capacitor_SMD:C_0603_1608Metric,~
+"C47,C49,C51,C53",4,C,,,,Capacitor_SMD:C_0402_1005Metric,~
+"C56,C57,C58",3,4.7pf,,,,Capacitor_SMD:C_0402_1005Metric,~
+D1,1,ASMB-MTB1-0A3A2,,,,LED_SMD:LED_Avago_PLCC4_3.2x2.8mm_CW,https://docs.broadcom.com/docs/AV02-4194EN
+FB1,1,120r 100mhz,,,,Inductor_SMD:L_0402_1005Metric,~
+J1,1,Con_Temp,,,,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,~
+J2,1,Con_I2C,,,,Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,~
+J3,1,Con_Prog,,,,Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,~
+J4,1,Conn_01x08_Pin,,,,Connector_JST:JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical,~
+J5,1,Conn_01x06_Pin,,,,Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical,~
+"J6,J7,J12",3,Conn_02x03_Odd_Even,,,,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical,~
+J8,1,Conn_01x02_Pin,,,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~
+"J9,J10",2,Con_Fan,,,,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,~
+JP1,1,Junper 3V3 5V,,Excluded from BOM,,Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels,~
+L1,1,100uH,,,,Inductor_SMD:L_KOHERelec_MDA5030,~
+L2,1,22uH,,,,Inductor_SMD:L_Chilisin_BMRB00050518-B,~
+P1,1,USB_C_Plug_USB2.0,,,,Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV,https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+"Q1,Q2",2,AO3400A,,,,Package_TO_SOT_SMD:SOT-23,http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf
+"R1,R2,R3,R8,R9,R12,R13,R18,R20,R25,R26,R27,R29,R31,R33,R45,R46,R47,R48,R49,R50",21,10k,,,,Resistor_SMD:R_0402_1005Metric,~
+"R4,R5,R6,R7,R10,R11",6,100R,,,,Resistor_SMD:R_0402_1005Metric,~
+"R14,R15,R87",3,1k,,,,Resistor_SMD:R_0402_1005Metric,~
+R16,1,402k,,,,Resistor_SMD:R_0402_1005Metric,~
+R17,1,2k2,,,,Resistor_SMD:R_0402_1005Metric,~
+R19,1,52.3k,,,,Resistor_SMD:R_0402_1005Metric,~
+"R21,R22",2,22R,,,,Resistor_SMD:R_0402_1005Metric,~
+R23,1,220R,,,,Resistor_SMD:R_0402_1005Metric,~
+"R24,R28,R30,R32",4,330K,,,,Resistor_SMD:R_0402_1005Metric,~
+"R34,R35",2,2K2,,,,Resistor_SMD:R_0402_1005Metric,~
+"R37,R38,R39",3,4.7K,,,,Resistor_SMD:R_0402_1005Metric,~
+R58,1,100R,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~
+SW1,1,RESET,,,,Button_Switch_SMD:SW_SPST_B3U-1000P,~
+"U1,U6,U9",3,INA240A2PW,,,,Package_SO:TSSOP-8_4.4x3mm_P0.65mm,http://www.ti.com/lit/ds/symlink/ina240.pdf
+"U2,U3,U4",3,UCC27211D,,,,Package_SO:HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm_ThermalVias,
+U5,1,STM32G473CBTx,,,,Package_QFP:LQFP-48_7x7mm_P0.5mm,https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+U7,1,LM5161PWP,,,,Package_SO:Texas_HTSSOP-14-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3.155x3.255mm_ThermalVias,http://www.ti.com/lit/ds/symlink/lm5161.pdf
+U8,1,MCP16311x-xMS,,,,Package_SO:MSOP-8_3x3mm_P0.65mm,https://ww1.microchip.com/downloads/en/DeviceDoc/MCP16311-Family-Data-Sheet-DS20005255C.pdf
+U10,1,AMS1117,,,,Package_TO_SOT_SMD:SOT-223-3_TabPin2,http://www.advanced-monolithic.com/pdf/ds1117.pdf
+U11,1,TJA1051TK-3,,,,Package_SON:HVSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm,https://www.nxp.com/docs/en/data-sheet/TJA1051.pdf
+U13,1,40106,,,,Package_DIP:DIP-14_W7.62mm_SMDSocket_SmallPads,https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf
+Y1,1,24 mhz XTAL 3225,,,,Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm,~
